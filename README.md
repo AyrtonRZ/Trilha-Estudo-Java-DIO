@@ -1,18 +1,4 @@
-## Getting Started
+## Repositorio TRILHA JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório é voltado para o estudo da linguagem de programação Java, aplicado através do curso da DIO (Digital Innovation One). Aqui, exploramos os fundamentos da linguagem Java, incluindo a declaração de variáveis, estruturas condicionais, loops, entre outros conceitos essenciais. O objetivo é desenvolver uma compreensão sólida de Java e aprimorar nossas habilidades de programação.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
