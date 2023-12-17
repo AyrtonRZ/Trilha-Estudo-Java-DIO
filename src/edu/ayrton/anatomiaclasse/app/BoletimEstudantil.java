@@ -1,3 +1,4 @@
+package edu.ayrton.anatomiaclasse.app;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         System.out.println("Boletim Estudantil");

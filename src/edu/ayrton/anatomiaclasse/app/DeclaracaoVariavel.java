@@ -1,3 +1,5 @@
+
+package edu.ayrton.anatomiaclasse.app;
 public class DeclaracaoVariavel {
     public static void main(String[] args) {
         int idade = 20;

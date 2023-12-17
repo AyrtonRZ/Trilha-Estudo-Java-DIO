@@ -1,3 +1,4 @@
+package edu.ayrton.anatomiaclasse.app;
 public class DeclaracaoMetodo {
     public static void main(String[] args) {
         String nome = "João";
